@@ -9,3 +9,7 @@
 - static_router.pkt ：配置静态路由表
 - telnet.pkt : Telnet协议
 - tftp.pkt : Tftp协议
+- DHCP_1.pkt:同一网段下配置DHCP协议
+- DHCP_2.pkt:不同网段下配置DHCP协议
+- vlan.pkt:简单的VLAN
+- vlan_extended.pkt:扩展的V
